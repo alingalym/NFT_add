@@ -1,0 +1,15 @@
+{
+    "description": "AI generated images of Humanized Crypto", 
+    "image": "ipfs://QmVPWD2NCjzwLsMN3sgAghHMDPtcHwDtRmqw9J1VyQjies/5.jpg", 
+    "name": "Human Crypto #5",
+    "attributes": [
+    {
+        "trait_type": "Base", 
+        "value": "High"
+    },  
+    {
+        "trait_type": "Level", 
+        "value": 5
+    }]
+
+}
